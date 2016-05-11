@@ -3,11 +3,11 @@
 ## Flash: Interactive game
 **Built date:** 2009
 
-**Project:** []()
+**Website URL:** [http://dchantzis.github.io/flash-interactive-game/](http://dchantzis.github.io/flash-interactive-game/)
 
-**Project Brief:** [PDF]()
+**Project Brief:** [PDF](http://dchantzis.github.io/flash-interactive-game/course-description[ARCH11003].pdf)
 
-**Git Repo:** []()
+**Git Repo:** [https://github.com/dchantzis/flash-interactive-game](https://github.com/dchantzis/flash-interactive-game)
 
 This is a semester project participating in the "Interactive Design Media" class for the MSc in Design and Digital Media (2009-2010) at the University of Edinburgh.
 
